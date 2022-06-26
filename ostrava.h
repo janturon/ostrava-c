@@ -17,6 +17,7 @@
 #define bul bool
 #define cyslo_desetinne float
 
+
 #define najebej_do_konzole printf
 #define cekej getchar()
 #define odradkuj puts("")
@@ -32,3 +33,4 @@
 #define chuj_s_tym continue
 
 #define tryda struct
+
