@@ -1,3 +1,4 @@
+#include <stdio.h>
 #define robota int main()
 #define pyco ;
 #define gyzde ;
@@ -8,6 +9,7 @@
 #define zgrupuj_po %
 #define nula 0
 #define do_aleluja 2000000000
+
 #define krat
 #define ted_tam_najebu
 
@@ -16,6 +18,11 @@
 #define chachar char
 #define bul bool
 #define cyslo_desetinne float
+
+#define deleno /
+#define plus +
+#define minus -
+#define nasobeno *
 
 #define najebej_do_konzole printf
 #define cekej getchar()
