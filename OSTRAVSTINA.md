@@ -31,8 +31,8 @@ Formální oslovení je přibližně "dobrỵdēn" s tím, že někde se koncov�
 V průběhu hovoru lze někoho pomlouvat ("vyryvat") frází "On je taky ...", vč. změny rodu, např. "On je taka fajnovka", "On je take ucho".
 
 - babrak - nemotora
-- bachroň, bachroč, bachraty - tlusťoch, tlustý (baňok - tlusté děcko, pův. hornická bandaska;
-- becok velký novorozenec, pův. velký fazol)
+- bachroň, bachroč, bachraty - tlusťoch, tlustý (baňok - tlusté děcko, pův. hornická bandaska)
+- becok - druh velkých fazolů, přeneseně velký novorozenec
 - balamut - kecal
 - baraba - otrapa
 - borok - chudák (božatko - ubohé dítě)
@@ -74,7 +74,7 @@ U příbuzenstva říkáme
 - balamutit - lhát (co mě balamutiš?)
 - bantovat - ponocovat (jinde prý naopak brzy vstávat, jinde prý svádět k nepravostem)
 - bulat - absentovat
-- dlabat na něco - kašlat na něco
+- dlabat na něco - kašlat na něco (dlabu na to lze vyjádřit též idiomem "chuj s tym")
 - deptat - šlapat (deptat na kole, deptat do kopce apod.)
 - dožrat se - naštvat se (teď jsem se dožral - pohár mé trpělivosti právě přetekl)
 - fulat - lhát (co fuláš? - co to kecáš?)
@@ -171,7 +171,8 @@ U příbuzenstva říkáme
 - šmigrust - Velikonoce (pomlázce se říká karabač)
 - stolek - židle (zeber stolek - vem si židli, posaď se)
 - štangle - horní trubka na kole (vem mě na štangli)
-- štěrkačka - chrastítko
+- štěrkačka - řehtačka
+- štěrkátko - chrastítko
 - štrample - punčocháče
 - štipka (ščipka) - škvor
 - šťur (ščur) - potkan
