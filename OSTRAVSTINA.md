@@ -157,7 +157,7 @@ U příbuzenstva říkáme
 - kupak - koupaliště
 - kura - slepice
 - kvitko - kytka
-- lakatoš - nechvalně proslulý slovenský [https://youtu.be/SiUz_akTmcY](traktor LKT)
+- lakatoš - nechvalně proslulý slovenský [traktor LKT](https://youtu.be/SiUz_akTmcY)
 - pecek - kamna
 - peň - špalek na sekání dřeva (blbý jak peň, hluchý jak peň)
 - pokřiva - kopřiva
