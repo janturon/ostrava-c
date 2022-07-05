@@ -10,11 +10,16 @@
 #define a &&
 #define zgrupuj_po %
 #define je_kec(X) !(X)
-#define referenca_na &
-#define cajger_na(X) X*
+#define referenca_na(X) X &
+#define cajger_na(X) X *
 #define nula 0
 #define do_aleluja 2000000000
 #define pribity const
+#define pribite const
+#define pribita const
+#define staticke static
+#define staticky static
+#define staticka static
 
 #define krat
 #define ted_tam_najebu
@@ -56,7 +61,7 @@
 #define di_do_pici break
 #define prubni try
 #define bulat throw
-#define pojeb exception
+#define pojeb std::exception
 #define sichruj catch
 #define zychruj catch
 
