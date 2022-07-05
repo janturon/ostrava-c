@@ -73,6 +73,7 @@ U příbuzenstva říkáme
 - o - podívej (o un i! - podívej, on jí! - Pražák Donutil si myslí, že nejkratší sloveso je "hl", a tady máme hned dvě ostravská slovesa poloviční délky)
 - balamutit - lhát (co mě balamutiš?)
 - bantovat - ponocovat (jinde prý naopak brzy vstávat, jinde prý svádět k nepravostem)
+- bulat - absentovat
 - dlabat na něco - kašlat na něco
 - deptat - šlapat (deptat na kole, deptat do kopce apod.)
 - dožrat se - naštvat se (teď jsem se dožral - pohár mé trpělivosti právě přetekl)
@@ -97,8 +98,10 @@ U příbuzenstva říkáme
 - štěrkat - chrastit (toto slovo používal už Komenský)
 - štrykovat - plést, někdy též zašívat (zaštrykuj si tu ažuru na ponožce); zalátat se častěji řekne jako zaštepovat
 - šulat - válet
+- vybulit se - upadnout, havarovat (vybulil se do plotu)
 - vyryvat - pomlouvat (Co vyryvaš?)
 - zavazet - překážet
+- zbulat - zbořit (též pobulat - pobořit)
 - zdiriguj sa - uvědom si, co říkáš/děláš (hochu, ty sa zdiriguj - nedělej bordel, nebo dostaneš po hubě)
 - zdupat - zkazit (to jsem zdupal)
 - zichrovat - jistit
