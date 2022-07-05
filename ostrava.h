@@ -1,4 +1,4 @@
-#define robota int main(int pocet_argumentu, char argumenty**)
+#define robota int main(int pocet_argumentu, char** argumenty)
 #define pyco ;
 #define gyzde ;
 #define gizde ;

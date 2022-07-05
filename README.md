@@ -29,7 +29,7 @@ Kompatibilní s OstraJava
 
 Dále pak
 
-- `referenca` &
+- `referenca_na(X)` & X
 - `cajger_na(X)` X *
 - `pribity` const
 
