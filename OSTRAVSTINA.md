@@ -176,6 +176,7 @@ U příbuzenstva říkáme
 - štrample - punčocháče
 - štipka (ščipka) - škvor
 - šťur (ščur) - potkan
+- šopa - stodola
 - šupa - slupka (též rána)
 - volioko - volské oko
 - žďorby - haraburdí
