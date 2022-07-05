@@ -97,10 +97,10 @@ U příbuzenstva říkáme
 - šťuřit se (ščuřit se) - uculovat se
 - štěrkat - chrastit (toto slovo používal už Komenský)
 - štrykovat - plést, někdy též zašívat (zaštrykuj si tu ažuru na ponožce); zalátat se častěji řekne jako zaštepovat
-- šulat - válet
+- šulat - válet (těsto)
 - vybulit se - upadnout, havarovat (vybulil se do plotu)
 - vyryvat - pomlouvat (Co vyryvaš?)
-- zavazet - překážet
+- zblyňat - bloumat (též pojídat co zrovna přijde pod ruku místo pořádného jídla)
 - zbulat - zbořit (též pobulat - pobořit)
 - zdiriguj sa - uvědom si, co říkáš/děláš (hochu, ty sa zdiriguj - nedělej bordel, nebo dostaneš po hubě)
 - zdupat - zkazit (to jsem zdupal)
@@ -115,14 +115,14 @@ U příbuzenstva říkáme
 - kaj - kde (kajco, kajkdo - kdeco, kdekdo)
 - kajsi, kajsik - někam
 - kajtež - kdeže
-- bo - protože
+- bo - protože (zkrácené z nebo, které lze v tomto významu také použít)
 - či (na začátku věty) - zdalipak
 - či (uprostřed věty) - nebo
 - čemu - proč
 - do - k (šel do Honzy - šel k Honzovi - podobně jako šel do obchodu; speciálně do dom - domů)
 - choť - přestože
 - mi - mně (používá se i na začátku věty, např. "mi to nevadí")
-- oto - tady (jižněji též hen, hena - tam)
+- oto(k) - tady (jižněji též hen, hena - tam)
 - dookola, naokolo - okolo
 - spiš - dříve (přijdu spiš - přijdu dříve. Žádný Ostravak nerozumí sousloví "přijdu dýl" - chápe ho jako "půjdu delší cestou, ale přijdu včas")
 - včil, teraz - teď
