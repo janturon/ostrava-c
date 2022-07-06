@@ -17,7 +17,7 @@ Slova "kurva" a "piča" nejsou vulgární. Jsou to vycpávková slova, podobně 
 
 Ve sprostém slova smyslu se "kurva" řekne "ludra" a "piča" jako "pizda" či "pitka". Nejsprostší ostravská nadávka je "ty cype", kterou dialog vždy končí, bo pak už můžou následovat jen pěsti. Pokud ale před slovem "cyp" není "ty", je to naopak neškodná univerzální metafora podobná české "jak sviňa", např. "zima jak cyp", "polévka dobrá jak cyp" a podobně. Významově je "cyp" popsatelný jako "čurák".
 
-Kurva je mnohovýznamové slovo popsané zvlášť v souboru KURVA.md
+Kurva je mnohovýznamové slovo popsané zvlášť v souboru [KURVA.md](./KURVA.md)
 
 ## Hovorovost
 
