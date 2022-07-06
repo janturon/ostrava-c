@@ -5,7 +5,7 @@ Ostravak (ostrava-c) je preprocesorové rozšíření jazyka C++ do ostravštiny
 ## Instalace a použití
 
 Pro používání Ostravaku stačí načíst hlavičkový souboru **ostrava.h** do C++ programu.
-Ve složce **Integration** je volitelně též zvýrazňovač syntaxe pro PSPad a nastavení kompilace do VS Code.
+Ve složce **[Integration](./Integration)** je volitelně též zvýrazňovač syntaxe pro PSPad a návod na zapnutí podpory pro .cp soubory ve VS Code.
 Programům je doporučeno dávat příponu cp, což je málo používaná, ale podporovaná přípona C++ programů. Významově se blíží ostravskému "cyp" a kodér je tak před otevřením varován před pokročilou syntaxí jazyka Ostravak.
 
 ## Ostravština
