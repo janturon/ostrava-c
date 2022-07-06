@@ -16,10 +16,10 @@ Lidi, kteří mají tu smůlu, že se narodili na jih od Místku-Frýdku nebo na
 
 Příklady ze složky **Examples** jde použít jako tutoriál v tomto pořadí.
 
-1. *bumbac.cp* Vypíše na konzoli čísla 1-100 podle pravidla bumbác. Cyklus, podmínky, výstup na konzoli, komentáře.
-2. *nasobilka.cp* Zeptá se uživatele na základ násobilky a vypíše malou násobilku daného základu. Vstup z konzole, funkce, ošetření neplatného vstupu.
-3. *nahodne.cp* Vypíše náhodné slovo z ostravského slovníku *slovnik.dat*. Čtení ze souboru, tvorba objektu, integrace s C++ kontejnery `std::vector` a `std::string`
-4. *psc.cp* Zobrazí kraj dle čísla zadaného jako parametr programu. Parametry programu, vyjímky, statické proměnné, reference.
+1. *[bumbac.cp](./Examples/bumbac.cp)* Vypíše na konzoli čísla 1-100 podle pravidla bumbác. Cyklus, podmínky, výstup na konzoli, komentáře.
+2. *[nasobilka.cp](./Examples/nasobilka.cp)* Zeptá se uživatele na základ násobilky a vypíše malou násobilku daného základu. Vstup z konzole, funkce, ošetření neplatného vstupu.
+3. *[nahodne.cp](./Examples/nahodne.cp)* Vypíše náhodné slovo z ostravského slovníku *slovnik.dat*. Čtení ze souboru, tvorba objektu, integrace s C++ kontejnery `std::vector` a `std::string`
+4. *[psc.cp](./Examples/psc.cp)* Zobrazí kraj dle čísla zadaného jako parametr programu. Parametry programu, vyjímky, statické proměnné, reference.
 
 ## Syntaxe
 
