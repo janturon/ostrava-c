@@ -29,6 +29,10 @@
 #define chachar char
 #define bul bool
 #define cyslo_desetinne float
+#define guvno void
+#define na_picu void
+#define bez_parametru ()
+#define jdi_do goto
 
 #define najebej_do_konzole printf
 #define vyjebej_z_konzole scanf
@@ -53,8 +57,17 @@
 #define jinak else
 #define vyrubej return
 #define ser_na_to continue
-#define di_do_pici break
 #define chuj_s_tym continue
+#define di_do_pici break
+#define prubni try
+#define bulat throw
+#define pojeb std::exception
+#define sichruj catch
+#define zychruj catch
 
-#define tryda struct
-
+#define havirna class
+#define partyja struct
+#define befel
+#define tajne private
+#define protekcni protected
+#define proflaknute public
