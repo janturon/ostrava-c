@@ -10,7 +10,7 @@ Programům je doporučeno dávat příponu cp, což je málo používaná, ale p
 
 ## Ostravština
 
-Lidi, kteří mají tu smůlu, že se narodili na jih od Místku-Frýdku nebo na západ od Opavy, nechápou Ostravaka od přirozeni a měli by absolvovat základní kurz OSTRAVSTINA.md
+Lidi, kteří mají tu smůlu, že se narodili na jih od Místku-Frýdku nebo na západ od Opavy, nechápou Ostravaka od přirozeni a měli by absolvovat základní kurz [OSTRAVSTINA.md](./OSTRAVSTINA.md)
 
 ## Přiklady / tutoryjal
 
