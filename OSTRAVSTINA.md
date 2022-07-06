@@ -25,7 +25,7 @@ Slova se v žádném případě neukončují na "-ej" (dobrej, mladej, hodnej) -
 
 ## Oslovení
 
-Vzhledem k tomu, že "ahoj" má neprakticky dvě slabiky, používá se obvykle "čus", případně vřeleji "čus bus". Pokud vítáme skupinu ("partyju"), místo "hoši" a "holky" používáme "synci" a "děvuchy". "Muži" a "ženy" jsou "chlopi" a "baby". Děda nás jako děti vítal "rebjata", ale rychle se z toho stal archaismus, bo přejímaní z ruštiny přestalo být populární.
+Vzhledem k tomu, že "ahoj" má neprakticky dvě slabiky, používá se obvykle "čus", případně vřeleji "čus bus" nebo "zduř". Pokud vítáme skupinu ("partyju"), místo "hoši" a "holky" používáme "synci" a "děvuchy". "Muži" a "ženy" jsou "chlopi" a "baby". Děda nás jako děti vítal "rebjata", ale rychle se z toho stal archaismus, bo přejímaní z ruštiny přestalo být populární.
 Formální oslovení je přibližně "dobrỵdēn" s tím, že někde se koncové "n" vyslovuje jako "ň".
 
 V průběhu hovoru lze někoho pomlouvat ("vyryvat") frází "On je taky ...", vč. změny rodu, např. "On je taka fajnovka", "On je take ucho".
@@ -104,6 +104,7 @@ U příbuzenstva říkáme
 - zbulat - zbořit (též pobulat - pobořit)
 - zdiriguj sa - uvědom si, co říkáš/děláš (hochu, ty sa zdiriguj - nedělej bordel, nebo dostaneš po hubě)
 - zdupat - zkazit (to jsem zdupal)
+- zduřit se - po anglicku zmizet
 - zichrovat - jistit
 
 ## Příslovce, spojky
@@ -126,7 +127,7 @@ U příbuzenstva říkáme
 - dookola, naokolo - okolo
 - spiš - dříve (přijdu spiš - přijdu dříve. Žádný Ostravak nerozumí sousloví "přijdu dýl" - chápe ho jako "půjdu delší cestou, ale přijdu včas")
 - včil, teraz - teď
-- zkama - odkud (zkama jsi? ztamocaď z Petřvaldu.)
+- zkama - odkud (zkama jsi? ztama z Petřvaldu.)
 - ztama - odtamtud
 
 ## Podstatná jména
@@ -176,7 +177,7 @@ U příbuzenstva říkáme
 - štrample - punčocháče
 - štipka (ščipka) - škvor
 - šťur (ščur) - potkan
-- šopa - stodola
+- šopa - stodola (kurnik šopa - doprdele)
 - šupa - slupka (též rána)
 - volioko - volské oko
 - žďorby - haraburdí
