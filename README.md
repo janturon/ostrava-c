@@ -23,7 +23,7 @@ Příklady ze složky **Examples** jde použít jako tutoriál v tomto pořadí.
 
 ## Syntaxe
 
-Všechny příkazy se ukončují jedním zvýrazů `pyco`, `kurva`, `gizde` i `gyzde`, podle nálady. Fajnovky můžou použít i středník.
+Všechny příkazy se ukončují jedním zvýrazů `pyco`, `kurva`, `gizde` i `gyzde`, podle nálady. Ostravak doporučuje používat `kurva` za definicemi, `pyco` u běžných příkazů a `gizde` u těch málo intuitivních, čímž se upozorní čtenář kódu, že by zde měl zbystřit. No když je někdo fajnovka nebo guvňoř pedagogický, može tam najebat aji středník.
 
 ### Typy
 

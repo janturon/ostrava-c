@@ -28,36 +28,38 @@ Slova se v žádném případě neukončují na "-ej" (dobrej, mladej, hodnej) -
 Vzhledem k tomu, že "ahoj" má neprakticky dvě slabiky, používá se obvykle "čus", případně vřeleji "čus bus" nebo "zduř". Pokud vítáme skupinu ("partyju"), místo "hoši" a "holky" používáme "synci" a "děvuchy". "Muži" a "ženy" jsou "chlopi" a "baby". Děda nás jako děti vítal "rebjata", ale rychle se z toho stal archaismus, bo přejímaní z ruštiny přestalo být populární.
 Formální oslovení je přibližně "dobrỵdēn" s tím, že někde se koncové "n" vyslovuje jako "ň".
 
-V průběhu hovoru lze někoho pomlouvat ("vyryvat") frází "On je taky ...", vč. změny rodu, např. "On je taka fajnovka", "On je take ucho".
+V průběhu hovoru lze někoho pomlouvat ("vyryvat") frází "On je taky ..." (on je takový ...), případně "Tys je taky ..." (ty jsi takový ...) vč. změny rodu, např. "On je taka fajnovka", "On je take ucho".
 
 - babrak - nemotora
 - bachroň, bachroč, bachraty - tlusťoch, tlustý (baňok - tlusté děcko, pův. hornická bandaska)
 - becok - druh velkých fazolů, přeneseně velký novorozenec
-- balamut - kecal
 - baraba - otrapa
 - borok - chudák (božatko - ubohé dítě)
 - brygoš - brigádník (posměšně)
 - břydok - prase (člověk) (používá se i bravek)
 - bulač - absentér
-- bunk, bynk - mrzout (prý pův. čmelák) zabunčit se - vzepřít se, postavit si hlavu
-- cyp - čurák (hrubá urážka, jemněji "chuj")
+- bunk, bynk - mrzout; zabunčit se - vzepřít se, postavit si hlavu
+- cyp - čurák (hrubá urážka, jemněji "chuj"; chuj s tym - seru na to)
 - cypaty - hlupák
-- cigoš - cikán (neutrální označení, pejorativně "morgoš"); ciganit - lhát
+- cigan - lhář (ciganit - lhát)
+- cigoš - cikán (neutrální označení, pejorativně "morgoš")
+- čobol - slovák
 - dajny - ochotný se rozdělit (ve smyslu politování: "on je taky dajny" - "všichni ho oberou")
 - dědiňor - vesničan
 - fajnovka - citlivka
-- fajny - dobrý
-- haluzař - šťastlivec
-- cholera jasna - ženský ekvivalent nadávky do cypa (kletba z polštiny, sračka)
-- chvalidupa - chvástal
+- fajny - dobrý (to je dobré - to je fajne)
 - gegoš - skinhead (vylepaný jak gegoš - nakrátko ostříhaný)
 - gizd - ohava (od hyzdid)
-- guvňoř - ňouma
+- gramlavy - nešikovný
+- gruča - nemotora
+- guvňoř - ňouma, nýmand
+- haluzař - šťastlivec, klikař
+- cholera jasna - ženský ekvivalent nadávky do cypa (kletba z polštiny, sračka)
+- chvalidupa - chvástal
 - motloch - popleta
 - pazgřivec - podvodník, křivák
 - pěruň - frajer
-- pšontek - polák (hanlivě)
-- ryna - okap
+- pšontek - polák (pohrdlivě)
 - šajber - odborník
 - ucho - nezkušený (též mličňok)
 - vyhukany - vystrašený
@@ -70,35 +72,39 @@ U příbuzenstva říkáme
 - švigra - sestra
 
 ## Slovesa
-- o - podívej (o un i! - podívej, on jí! - Pražák Donutil si myslí, že nejkratší sloveso je "hl", a tady máme hned dvě ostravská slovesa poloviční délky)
 - balamutit - lhát (co mě balamutiš?)
 - bantovat - ponocovat (jinde prý naopak brzy vstávat, jinde prý svádět k nepravostem)
-- bulat - absentovat
+- bulat - absentovat (bulat se - napadat na stranu)
+- buřit - bušit pěstí na dveře, též prdět (buřit do gatí); také buřina - bouře (už tam buří - už se blýská)
 - dlabat na něco - kašlat na něco (dlabu na to lze vyjádřit též idiomem "chuj s tym")
 - deptat - šlapat (deptat na kole, deptat do kopce apod.)
-- dožrat se - naštvat se (teď jsem se dožral - pohár mé trpělivosti právě přetekl)
+- dožrat se - naštvat se (to mě dožralo - pohár mé trpělivosti právě přetekl)
 - fulat - lhát (co fuláš? - co to kecáš?)
+- grcat - zvracet (zgrcaný - zblitý)
 - kipat - bryndat (kipe ti to po bradě)
 - luchat - lít (vydatně pršet - už tam luchá)
+- o - podívej (o un i! - podívej, on jí! - Miloslav Donutil si myslí, že nejkratší sloveso je "hl", a tady máme hned dvě ostravská slovesa poloviční délky)
 - plantat se - plést se (ty jsi celý poplantaný; neplantej se mi tu)
 - porvat - popadnout (porval batoh a upaloval)
 - pravit - říkat (používá se hovorově, např. "Pravil, že tam bude")
 - prubnout - zkusit
+- pucovat - čistit
 - pučit se - mačkat se (v autobuse)
-- rajzovat - cestovat
+- rajzovat - cestovat, vykračovat si
 - robit - dělat
+- rozhicovat, rozfajrovat    - roztopit (kamna)
 - rožnout - rozsvítit
 - rychtovat - dát do pořádku (porychtuj to, zrychtuj to)
 - řnut - uhodit
 - skipat - přetékat (z vařícího hrnce; vyskipaný hrnec, vyskipaná polévka)
 - smolit - vykonávat velkou potřebu (zesmolené galaty); s námahou sepsat (zesmolil milostný dopis)
 - smyčit - táhnout (vysmyčit - najít - z kaj's to zase vysmyčil? - kde's to zase našel? co za žďorby jsi to přismyčil?)
-- šibnout - posunout (pošibovat - letmo opravit - zkus s tym trochu pošibovat; či ti šibe? - nezbláznil ses?)
+- šibnout - posunout (pošibovat - letmo opravit - zkus s tym trochu pošibovat; či ti šibe? - nezbláznil ses?; šibni se - posuň se)
 - šťuřit se (ščuřit se) - uculovat se
 - štěrkat - chrastit (toto slovo používal už Komenský)
 - štrykovat - plést, někdy též zašívat (zaštrykuj si tu ažuru na ponožce); zalátat se častěji řekne jako zaštepovat
 - šulat - válet (těsto)
-- vybulit se - upadnout, havarovat (vybulil se do plotu)
+- vybulit se - upadnout, havarovat (vybulil se do plotu); též vybulat
 - vyryvat - pomlouvat (Co vyryvaš?)
 - zblyňat - bloumat (též pojídat co zrovna přijde pod ruku místo pořádného jídla)
 - zbulat - zbořit (též pobulat - pobořit)
@@ -109,41 +115,57 @@ U příbuzenstva říkáme
 
 ## Příslovce, spojky
 
-- aji - i
+- ajn cvaj - raz dva (hned); zrobil to ajn cvaj - měl to hned hotové
+- aj(i) - i
+- baj oko - zkusmo, přibližně (jeden z mála anglismů v ostravštině)
 - enem - jenom
+- bo - protože (zkrácené z nebo, které lze v tomto významu také použít)
+- či (na začátku věty) - zdalipak (či si hlupy?)
+- či (uprostřed věty) - nebo
+- čemu - proč (čemu ne?)
+- do - k (šel do Honzy - šel k Honzovi - podobně jako šel do obchodu; speciálně "do dom" - domů)
+- dookola - dokola
+- naokolo - dokola "to je furt naokolo" - to je pořád dokola (to samé); naokolo bez předmětu znamená i kolem - "šel naokolo"
+- furt - pořád
+- choť - přestože (málo používané)
 - jak... tak... - když... pak...
 - ta(k)jak - jak
+- taký, taká, také - takový, taková, takové
 - kaj - kde (kajco, kajkdo - kdeco, kdekdo)
-- kajsi, kajsik - někam
-- kajtež - kdeže
-- bo - protože (zkrácené z nebo, které lze v tomto významu také použít)
-- či (na začátku věty) - zdalipak
-- či (uprostřed věty) - nebo
-- čemu - proč
-- do - k (šel do Honzy - šel k Honzovi - podobně jako šel do obchodu; speciálně do dom - domů)
-- choť - přestože
+- kajsi(k) - někam
+- kajtež! - kdeže! (možno užít i kaj!)
+- kurde - ty jo
 - mi - mně (používá se i na začátku věty, např. "mi to nevadí")
 - oto(k) - tady (jižněji též hen, hena - tam)
-- dookola, naokolo - okolo
-- spiš - dříve (přijdu spiš - přijdu dříve. Žádný Ostravak nerozumí sousloví "přijdu dýl" - chápe ho jako "půjdu delší cestou, ale přijdu včas")
-- včil, teraz - teď
-- zkama - odkud (zkama jsi? ztama z Petřvaldu.)
+- spiš - dříve (přijdu spiš - přijdu dříve. Žádný Ostravak nerozumí sousloví "přijdu dýl" - chápe ho jako "půjdu delší cestou"; změří si vás pochybovačným pohledem, proč mu cpete, kudy půjdete na domluvené místo, a bude mít za to, že dorazíte včas)
+- včil, teraz(ky) - teď
+- zkama, zkaj - odkud (Zkaj si? Ztadyma.)
 - ztama - odtamtud
+- ztadyma - odtud
 
 ## Podstatná jména
 
 - amper - kybl
+- amoleta - omeleta
 - arab, ukrajina - staré kolo bez přehazovačky
 - ažura - díra v oblečení
 - bagančata - pracovní (obecně velké) boty
+- bachor, bachrák - placák (skok do vody)
 - baňa - VŠB, též facka či dýně nebo velká lahev
 - bebechy - harampádí
 - bída - uhelný prach
+- bombarďáky - velké kraťasy
 - brenpartyja - parta opilců (bren - denaturovaný líh)
 - brocak - chlebník
+- brykule - vylomeniny (nerob brykule)
 - buntek - poklopec
 - cukle - sandály
 - cycek, cecek - prso (čaj sladký jak cecek)
+- cykoč - přepínač
+- čiko - vajgl
+- drobňoky - drobné brambory (přeneseně též mince)
+- fajront - konec směny
+- fěrtoch - zástěra
 - fiňoky - finské domky, dřevěné řadovky, bydlení pro chudé, často cikány
 - furtka - dvířka
 - galaty - kalhoty
@@ -153,10 +175,10 @@ U příbuzenstva říkáme
 - kaške(n)t - šiltovka
 - kelerub(na) - kedluben
 - kinol - velký nos (co tam doluješ v tym kinolu? - už se zase rýpeš v nose?)
-- kisňa - bedna, fotbalová branka
+- kisňa - bedna, fotbalová branka (chceš do kisně? - chceš po hubě?)
 - klapačka - ústa (drž klapačku), klapačky - naušnice na klip (tehdy populární)
 - kobzole - brambory
-- kolonyje - vesnické sídliště
+- kolonyje - ulice řadových domků, obvykle fiňoků
 - křak - keř
 - kupak - koupaliště
 - kura - slepice
@@ -166,8 +188,8 @@ U příbuzenstva říkáme
 - peň - špalek na sekání dřeva (blbý jak peň, hluchý jak peň)
 - pokřiva - kopřiva
 - pudlice - popelnice
-- půlka - velký panák (půl deci; nalej mně do půlky - nalej mi panáka)
 - pysk - obličej (chceš do pysku? chceš v pysk?)
+- ryna - okap
 - ryngle - častěji se tak označují i blumy
 - šmigrust - Velikonoce (pomlázce se říká karabač)
 - stolek - židle (zeber stolek - vem si židli, posaď se)
@@ -176,7 +198,7 @@ U příbuzenstva říkáme
 - štěrkátko - chrastítko
 - štrample - punčocháče
 - štipka (ščipka) - škvor
-- šťur (ščur) - potkan
+- šťur (ščur) - potkan; zlitý jak ščur - velmi zpocený
 - šopa - stodola (kurnik šopa - doprdele)
 - šupa - slupka (též rána)
 - volioko - volské oko
@@ -184,11 +206,13 @@ U příbuzenstva říkáme
 
 ## Přídavná jména
 - dokaličený - dobitý (o člověku i věci; ten stolek je po děckach celý dokaličený)
+- hladný - hladový (též o jídle jako málo syté - salát je hladné jídlo)
 - chudý - hubený (chudé maso - libové maso)
 - plytký - mělký (plytký talíř)
 - připitý - podnapilý
 - hrubý - tlustý (o textilu: hrubá deka, hrubý svetr)
 - šurý - křivý
+- zbabraný - špatně udělaný
 
 ## Citoslovce
-- bech - bum, žuch
+- bech, bec - žuch, bum
