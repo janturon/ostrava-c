@@ -7,7 +7,7 @@
 #define neni !=
 #define nastav_na =
 #define ci ||
-#define a &&
+#define aj &&
 #define zgrupuj_po %
 #define je_kec(X) !(X)
 #define referenca_na(X) X &
