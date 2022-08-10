@@ -62,7 +62,7 @@ Pro tvorbu výrazů
 - `neni` !=
 - `je_kec(X)` !(X)
 - `ci` ||
-- `a` &&
+- `aj` &&
 - `zgrupuj_po` %
 - `nastav_na` =
 
