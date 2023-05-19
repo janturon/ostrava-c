@@ -9,14 +9,14 @@ Ostrava tenkrát byla ocelové město jako z Verneovek: Nová huť Klementa Gott
 Přízvuk daváme na předposledni slabiku ve větě nebo na zdůrazněne slovo. Dluhe samohlásky se nevyslovuji jako krátke. Su jen protáhle na minimum, aby se odlišily od krátkych, tedy ostravsky dluhe. Neda se to naučit z knížek, to musí mět člověk naposluchane.
 Normalni Ostravak píše spisovně, ale jak je tu důraz na akcent, tak píšu posledni hlasku kratku, bo je to úzus v podobnych spisech a bo je to víc vystihujíci. Ostatni hlásky píšu normálně, bo inak to vede k omylu, že dluha a ostravsky krátka hláska je to same.
 
-- *"Kery čaj kupime?"* - každopádně je zde nutne dát přízvuk na "i". Důraz tu ma smysl v libovolne kombinaci slov, tak je zde možné dát přízvuk i na "e" či "a", ale ne na oboji: je faux pas dát důraz na všechna slova, bo tak to robi cigani.
-- *"Ona má ráda mátovy"* - tu je slovo mátovy jak zdůrazněné, tak s předposlední slabikou, tak musi být "o" nejdelši hláska. Nikdy nesmi být tak dluha, jak pražák vyslovuje dluhe hlásky, a tak je zde vyjímečně možné vyslovit "á" a "ý" jako krátké hlásky. "Á" ve slovech má a ráda se však pořád vyslovuje jako ostravsky dlouhá hláska.
+- *"Kery čaj kupime?"* - každopádně je tu nutne dát přízvuk na "i". Důraz tu ma smysl v libovolne kombinaci slov, tak je tu možné dát přízvuk i na "e" či "a", ale ne na oboji: je faux pas dát důraz na všechna slova, bo tak to robi cigoši.
+- *"Ona má ráda mátovy"* - tu je slovo mátovy jak zdůrazněné, tak s předposlední slabikou, tak musi být "o" nejdelši hláska. Nikdy nesmi být tak dluha, jak pražák vyslovuje dluhe hlásky, a tak je tu vyjímečně možné vyslovit "á" a "ý" jako krátké hlásky. "Á" ve slovech má a ráda se však pořád vyslovuje jako ostravsky dluha hláska.
 
 ## Vulgarita
 
-Slova "kurva" a "piča" nejsou vulgární. Jsou to vycpávkova slova, podobně jako v Čechách slovo "vole": nepoužívaji se při formálním jednáni se starostou, ale v hospodě dodaji řeči uvolněnou zvukomalebnost. Václav Havel místo teho říkal "že".
+Slova "kurva" a "piča" nejsou vulgárni. Jsou to vycpávkova slova, podobně jako v Čechách slovo "vole": nepoužívaji se při formálnim jednáni se starostou, ale v hospodě dodaji řeči uvolněnou zvukomalebnost. Václav Havel místo teho říkal "že".
 
-Ve sprostém slova smyslu se "kurva" řekne "ludra" a "piča" jako "pizda" či "pitka". Nejsprostši ostravska nadávka je "ty cype", kerou dialog vždy konči, bo pak už možou následovat jen pěsti. Jak ale před slovem "cyp" neni "ty", tak je to naopak neškodna univerzálni metafora podobna česke "jak sviňa", např. "zima jak cyp", "polévka fajna jak cyp" a podobně. Významově je "cyp" něco jak "čurák".
+Ve sprostém slova smyslu se "kurva" řekne "ludra" a "piča" jako "pizda" či "pitka". Nejsprostši ostravska nadávka je "ty cype", kerou dialog vždcky konči, bo pak už možou následovat jen pěsti. Jak ale před slovem "cyp" neni "ty", tak je to naopak neškodna univerzálni metafora podobna česke "jak sviňa", např. "zima jak cyp". Významově je "cyp" něco jak "čurák".
 
 Kurva je mnohovýznamove slovo popsane zvlášť v souboru [KURVA.md](./KURVA.md)
 
@@ -24,7 +24,7 @@ Kurva je mnohovýznamove slovo popsane zvlášť v souboru [KURVA.md](./KURVA.md
 
 Slova se v žádném případě neukončuji na "-ej" (dobrej, mladej, hodnej) - v hovoru je to ta největši možna ostuda. Hovorově se používá zvratne zájmeno "se" ve tvaru "sa" a změkčuje se posledni hláska (dobrý deň, plantať sa).
 
-Taktéž se zásadně nepoužívaji zdrobněliny (čepička, taštička a podobně), bo je to take buzerantske, a to je ve slušne společnosti nemravne. A politickou korektnost - tu maji jen nějaci čehuni tam kajsik u Prahy, na Ostravsku jsme rázovití.
+Taktéž se zásadně nepoužívaji zdrobněliny (čepička, taštička a podobně), bo je to take buzerantske, a to je ve slušne společnosti nemravne. A politickou korektnost - tu maji jen nějaci čehuni tam kajsik u Prahy, na Ostravsku se s ničim nebabřeme.
 
 ## Oslovení
 
@@ -36,7 +36,7 @@ V průběhu hovoru lze někoho pomlouvat ("vyryvat") frází "On je taky ..." (o
 - babrak - nemotora
 - bachroň, bachroč, bachraty - tlusťoch, tlustý (baňok - tlusté děcko, pův. hornická bandaska)
 - becok - druh velkých fazolů, přeneseně velký novorozenec
-- baraba - otrapa
+- barab(a) - otrapa
 - borok - chudák (božatko - ubohé dítě)
 - brygoš - brigádník (posměšně)
 - břydok - prase (člověk) (používá se i bravek)
@@ -52,14 +52,14 @@ V průběhu hovoru lze někoho pomlouvat ("vyryvat") frází "On je taky ..." (o
 - dajny - ochotný se rozdělit (ve smyslu politování: "on je taky dajny" - "všichni ho oberou")
 - dědiňor - vesničan
 - fajnovka - citlivka
-- fajny - dobrý (to je dobré - to je fajne)
-- gegoš - skinhead (vylepaný jak gegoš - nakrátko ostříhaný)
+- fajny - dobrý (to je dobre - to je fajne)
+- gegoš - skinhead (vylepany jak gegoš - nakrátko ostříhaný)
 - gizd - ohava (od hyzdid)
 - gramlavy - nešikovný
 - gruča - nemotora
 - guvňoř - ňouma, nýmand
 - haluzař - šťastlivec, klikař
-- cholera jasna - ženský ekvivalent nadávky do cypa (kletba z polštiny, sračka)
+- cholera (jasna) - ženský ekvivalent nadávky do cypa (kletba z polštiny, sračka)
 - chvalidupa - chvástal
 - motloch - popleta
 - pazgřivec - podvodník, křivák
@@ -78,6 +78,7 @@ U příbuzenstva říkáme
 - švigermuter - tchýně (spíš jen na prajské)
 
 ## Slovesa
+- babrat se - rýpat se v něčem (např. v polévce)
 - balamutit - lhát (co mě balamutiš?)
 - bantovat - ponocovat (jinde prý naopak brzy vstávat, jinde prý svádět k nepravostem)
 - bulat - absentovat
@@ -133,6 +134,7 @@ U příbuzenstva říkáme
 - vybulit se - upadnout, havarovat (vybulil se do plotu); též vybulat
 - vyrubat - porazit (ve fotbalu ap. - vyrubali jsme je jak male synky)
 - vyryvat - pomlouvat (Co zas vyryvaš?)
+- zbabrat - zkazit (něco)
 - zblyňat - bloumat (též pojídat co zrovna přijde pod ruku místo pořádného jídla)
 - zbulat - zbořit (též pobulat - pobořit)
 - zdiriguj sa - uvědom si, co říkáš/děláš (hochu, ty sa zdiriguj - nedělej bordel, nebo dostaneš po hubě)
@@ -164,6 +166,7 @@ U příbuzenstva říkáme
 - furt - pořád
 - choť - přestože (málo používané)
 - jak... tak... - když... pak...
+- jak: jeden jak druhý - všichni stejný
 - ju - ji (4.pád) Mám ju rád
 - ta(k)jak - jak ("je to tajak říkáš")
 - taky, taka, take - takový, taková, takové
@@ -204,6 +207,7 @@ U příbuzenstva říkáme
 - cukle - sandály
 - cycek, cecek - prso (čaj sladký jak cecek)
 - cykoč - přepínač
+- cypovina, cyparna - blbost
 - čepka - čepice
 - čiko - vajgl
 - čuňa - nos (ve smyslu rypák) (chceš po čuni?)
@@ -218,6 +222,7 @@ U příbuzenstva říkáme
 - fuska - ponožka
 - gajdoše - prochozené boty (rovně prochozené, srovnej heslo šmajdaky)
 - galaty - kalhoty
+- galimatijaš - guláš (ve smyslu nepřehledná směs)
 - halda - zarostlý kopec z vytěžené hlušiny
 - haluz - štěstí (Taka haluz! Měls' haluz jak cyp!)
 - hrča - boule (na hlavě)
@@ -301,3 +306,4 @@ U příbuzenstva říkáme
 
 ## Citoslovce
 - bech, bec - žuch, bum (bechnout, becnout - praštit)
+- dřizg - třísk (někomu)
